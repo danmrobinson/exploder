@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import io
 
+st.set_page_config(page_icon="🧨", page_title="The Exploder")
+
 st.image(
     "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f9e8.svg",
     width=100,
