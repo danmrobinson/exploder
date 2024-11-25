@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import io
 
+st.image(
+    "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f9e8.svg",
+    width=100,
+)
+
 # Streamlit App: The Exploder
 st.title("The Exploder")
 
